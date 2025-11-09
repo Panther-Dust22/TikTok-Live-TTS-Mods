@@ -10,6 +10,6 @@ for testing your TTS voices so you can listen to what they all sound like
 Dualstream Tiktok/Twitch Mod  
 -- Coming Soon -- (in testing)  
   
-ThemeMod.dll  
+ThemeMod.dll  STILL TESTING SO MAY BREAK!
 Create, share and install custom themes for your TTS with colours and images  
 (i dont know why you would want this but but then again, why not)
